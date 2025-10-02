@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20de%20Software;Automatizador%20IA;Siempre%20aprendiendo%20algo%20nuevo;Siéntete%20libre%20de%20echar%20un%20vistazo%20%F0%9F%91%80;Contactame%20si%20necesitas%20ayuda%20!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20de%20Software;Automatizador%20IA;Siempre%20aprendiendo%20algo%20nuevo;Siéntete%20libre%20de%20echar%20un%20vistazo%20%F0%9F%91%80;Contáctame%20si%20necesitas%20ayuda%20!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
